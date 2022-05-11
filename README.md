@@ -8,8 +8,10 @@ To start project
 
 3. Start server `npm start`
 
-
+---
 Completed [project](https://menu-react-by-malina.netlify.app/)
+
+---
 
 #### Screenshots
 ![image](./screenshot.png)
